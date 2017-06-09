@@ -29,7 +29,11 @@ $.ajax({
 function process(data){
 	
 console.log("processing data8");
+try {
 var thisObj = JSON.parse(data);
+} catch (e){
+	Console.log("Error parsing data " +e.message);
+}
 console.log(thisObj[0].marketName);
 
 var strHtml = "";
