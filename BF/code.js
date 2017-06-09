@@ -6,7 +6,7 @@ alert('hello')
 
 function sendAjax(){
 $.ajax({
-  url: "/markets.json",
+  url: "/BF/markets.json",
   type: 'GET',
     
   success: function(data) {
