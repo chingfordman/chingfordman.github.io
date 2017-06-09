@@ -34,8 +34,10 @@ var thisObj = JSON.parse(data);
 } catch (e){
 	Console.log("Error parsing data " +e.message);
 }
+console.log("1");
 console.log(thisObj[0].marketName);
 
+console.log("2");
 var strHtml = "";
 strHtml+="<select>";
 
