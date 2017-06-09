@@ -28,7 +28,7 @@ $.ajax({
 }
 function process(data){
 	
-console.log("processing data8");
+console.log("processing data9");
 try {
 var thisObj = JSON.parse(data);
 } catch (e){
