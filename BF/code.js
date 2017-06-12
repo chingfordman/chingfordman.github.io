@@ -30,7 +30,7 @@ function process(data){
 	
 console.log("processing data10");
 try {
-var thisObj = JSON.parse(data);
+var thisObj = data;
 } catch (e){
 	console.log("Error parsing data " +e.message);
 }
