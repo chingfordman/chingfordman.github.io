@@ -32,7 +32,7 @@ console.log("processing data9");
 try {
 var thisObj = JSON.parse(data);
 } catch (e){
-	Console.log("Error parsing data " +e.message);
+	console.log("Error parsing data " +e.message);
 }
 console.log("1");
 console.log(thisObj[0].marketName);
