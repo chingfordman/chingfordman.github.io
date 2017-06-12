@@ -8,6 +8,7 @@ function sendAjax(){
 $.ajax({
   url: "/BF/markets.json",
   type: 'GET',
+dataType:"json",
     
   success: function(data) {
     //called when successful
