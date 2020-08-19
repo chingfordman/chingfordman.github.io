@@ -25,7 +25,17 @@ strOutput+= "<thead>";
 for(var i=0;i<data.length;i++){
 strOutput += "<tr>";
 	strOutput += "<th scope=\"row\">"+data[i].marketRunner +"</th>";
-	strOutput += "<td>"+data[i].current_price +"</td>";
+	
+	if(data[i].current_price < data[i].prev_price){
+		strOutput += "<td class=\"text-success\">"+data[i].current_price +"</td>";
+	} else if(data[i].current_price > data[i].prev_price){
+		strOutput += "<td class = \"text-danger\">"+data[i].current_price +"</td>";
+	} else {
+		strOutput += "<td>"+data[i].current_price +"</td>";
+	}
+	
+	
+	//strOutput += "<td>"+data[i].current_price +"</td>";
 	strOutput += "<td>"+data[i].prev_price +"</td>";
 	strOutput += "<td>"+data[i].new_date +"</td>";
 	strOutput += "<td>"+data[i].old_date +"</td>";
