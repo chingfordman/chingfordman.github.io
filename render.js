@@ -4,7 +4,7 @@ function renderData(){
 
 //assumes it has access to the data[] array contained in the data.js file in the same folder 
 
-var strOutput="";
+var strOutput="<span style=\"font-family:Console,monospace\"";
 strOutput+="<p class=\"text-light\">Current date : " + data[0].new_date +"</p>";
 strOutput+="<p class=\"text-light\">Prev date : " + data[0].old_date +"</p>";
 strOutput+="<table class=\"table table-striped table-dark table-hover\">";
@@ -22,20 +22,29 @@ strOutput+= "<thead>";
 
 
 for(var i=0;i<data.length;i++){
+	
+	
 strOutput += "<tr>";
 	strOutput += "<th scope=\"row\">"+data[i].marketRunner +"</th>";
 	
+	strOutput+="<span";
 	if(data[i].current_price < data[i].prev_price){
-		strOutput += "<td class=\"text-success\">"+data[i].current_price +"</td>";
+		strOutput+=" class =\"bg-success\">";
 	} else if(data[i].current_price > data[i].prev_price){
-		strOutput += "<td class = \"text-danger\">"+data[i].current_price +"</td>";
+		strOutput+=" class =\"bg-danger\">";
 	} else {
-		strOutput += "<td>"+data[i].current_price +"</td>";
+strOutput+=">";
 	}
+	
+
+		strOutput += "<td>"+data[i].current_price +"</td>";
+	
+		strOutput += "<td>"+data[i].current_price +"</td>";
+strOutput+="</span>";
 	
 	
 	//strOutput += "<td>"+data[i].current_price +"</td>";
-	strOutput += "<td>"+data[i].prev_price +"</td>";
+	//rOutput += "<td>"+data[i].prev_price +"</td>";
 	//strOutput += "<td>"+data[i].new_date +"</td>";
 	//strOutput += "<td>"+data[i].old_date +"</td>";
 	strOutput+="</tr>";
@@ -44,7 +53,7 @@ strOutput += "<tr>";
 			
 
 strOutput+="</tbody>";
-strOutput+="</table>";
+strOutput+="</table></span>";
 
 			
 //now add this text to the div
