@@ -12,8 +12,8 @@ strOutput+="<table class=\"table table-striped table-dark table-hover\">";
 strOutput+= "<thead>";
     strOutput+="<tr>";
       strOutput+="<th class=\"text-light\">Market-runner</th>";
-      strOutput+="<th scope=\"col\">New price</th>";
-      strOutput+="<th scope=\"col\">Old price</th>";
+      strOutput+="<th scope=\"col\">Price</th>";
+      
       
     strOutput+="</tr>";
   strOutput+="</thead>";
@@ -23,6 +23,7 @@ strOutput+= "<thead>";
 
 
 for(var i=0;i<data.length;i++){
+//	for(var i=0;i<2;i++){
 	
 var styling ="";
 if(data[i].current_price < data[i].prev_price){
@@ -40,9 +41,9 @@ strOutput += "<tr>";
 	
 	
 
-		strOutput += "<td"+styling+">"+data[i].current_price +" / " + data[i].prev_price+"<i class=\"fas fa-arrow-up\"></i>5.4%</td>";
+		strOutput += "<td"+styling+">"+data[i].current_price +" / " + data[i].prev_price +" " +  getDifference(data[i].current_price,data[i].prev_price) + "</td>";
 	
-		strOutput += "<td"+styling+">"+data[i].prev_price +"</td>";
+		//strOutput += "<td"+styling+">"+data[i].prev_price +"</td>";
 
 	
 	
@@ -70,8 +71,25 @@ renderData();
 function getDifference(newPrice, oldPrice){
 	// gets the difference in implied probablity between the old and new price// and returns it together with the right arrow from fontawesome
 	
-	var chance1 = 
+	var output = "";
+	
+	var chance1 = (1/newPrice) * 100;
+	var chance2 = (1/oldPrice) * 100;
 	
 	
+	
+	 console.log(chance1);
+	 console.log(chance2);
+	
+	
+	if(chance1>chance2){
+		
+		output = "<i class=\"fas fa-arrow-up\"></i> " + (chance1-chance2).toFixed(1) +"%";
+	} else if(chance2>chance1){
+		output = "<i class=\"fas fa-arrow-down\"></i> " + (chance2-chance1).toFixed(1) +"%";
+	}
+	
+	
+	return output; 
 	
 }
