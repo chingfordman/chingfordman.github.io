@@ -1,9 +1,9 @@
 var data=[];
 data.push({marketRunner:"Relegation 2020-21-Arsenal",current_price:24,prev_price:30,new_date:"17-09-2020",old_date:"16-09-2020"});
 data.push({marketRunner:"Relegation 2020-21-Aston Villa",current_price:3.15,prev_price:3.15,new_date:"17-09-2020",old_date:"16-09-2020"});
-data.push({marketRunner:"Relegation 2020-21-Burnley",current_price:4.2,prev_price:4.5,new_date:"17-09-2020",old_date:"16-09-2020"});
 data.push({marketRunner:"Relegation 2020-21-Brighton",current_price:4.8,prev_price:4.8,new_date:"17-09-2020",old_date:"16-09-2020"});
 data.push({marketRunner:"Relegation 2020-21-Chelsea",current_price:65,prev_price:32,new_date:"17-09-2020",old_date:"16-09-2020"});
+data.push({marketRunner:"Relegation 2020-21-Burnley",current_price:4.2,prev_price:4.5,new_date:"17-09-2020",old_date:"16-09-2020"});
 data.push({marketRunner:"Relegation 2020-21-Crystal Palace",current_price:5,prev_price:4.7,new_date:"17-09-2020",old_date:"16-09-2020"});
 data.push({marketRunner:"Relegation 2020-21-Everton",current_price:65,prev_price:50,new_date:"17-09-2020",old_date:"16-09-2020"});
 data.push({marketRunner:"Relegation 2020-21-Fulham",current_price:1.77,prev_price:1.77,new_date:"17-09-2020",old_date:"16-09-2020"});
