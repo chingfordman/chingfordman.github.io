@@ -38,11 +38,11 @@ strOutput += "<tr>";
 	
 	
 	
-	
-	
+	//strips out any back prices of 100 or over - for neatness
+	if(data[i].current_price < 100){
 
 		strOutput += "<td"+styling+">"+data[i].current_price +" / " + data[i].prev_price +" " +  getDifference(data[i].current_price,data[i].prev_price) + "</td>";
-	
+	}
 		//strOutput += "<td"+styling+">"+data[i].prev_price +"</td>";
 
 	
