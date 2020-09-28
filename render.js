@@ -1,3 +1,11 @@
+
+console.log(window.location.search);
+const params = new URLSearchParams(window.location.search);
+var eventType=params.get('type');
+alert(eventType);
+
+renderData();
+
 function renderData(){
 
 // takes the data form the data.js file in the same folder and converts it into html text  to be added into page
@@ -32,17 +40,18 @@ if(data[i].current_price < data[i].prev_price){
 	styling = " class =\"bg-danger\"";
 }
 
-	
+	//strips out any back prices of 100 or over - for neatness
+	//only reenders the type suppolied in the qs;
+	if(data[i].current_price < 100  &&  data[i].eventType ==eventType ){
 strOutput += "<tr>";
 	strOutput += "<th scope=\"row\">"+data[i].marketRunner +"</th>";
 	
 	
 	
-	//strips out any back prices of 100 or over - for neatness
-	if(data[i].current_price < 100){
+	
 
 		strOutput += "<td"+styling+">"+data[i].current_price +" / " + data[i].prev_price +" " +  getDifference(data[i].current_price,data[i].prev_price) + "</td>";
-	}
+	
 		//strOutput += "<td"+styling+">"+data[i].prev_price +"</td>";
 
 	
@@ -53,7 +62,7 @@ strOutput += "<tr>";
 	//strOutput += "<td>"+data[i].old_date +"</td>";
 	strOutput+="</tr>";
 	
-							}
+			}				}
 			
 
 strOutput+="</tbody>";
@@ -78,8 +87,8 @@ function getDifference(newPrice, oldPrice){
 	
 	
 	
-	 console.log(chance1);
-	 console.log(chance2);
+	 //console.log(chance1);
+	 //console.log(chance2);
 	
 	
 	if(chance1>chance2){
