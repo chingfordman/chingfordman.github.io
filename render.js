@@ -2,7 +2,7 @@
 console.log(window.location.search);
 const params = new URLSearchParams(window.location.search);
 var eventType=params.get('type');
-alert(eventType);
+//alert(eventType);
 
 renderData();
 
