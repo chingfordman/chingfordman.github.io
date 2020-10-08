@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <title>Meter Gauge</title>
+
+    <link class="include" rel="stylesheet" type="text/css" href="../jquery.jqplot.min.css" />
+    <link rel="stylesheet" type="text/css" href="examples.min.css" />
+    <link type="text/css" rel="stylesheet" href="syntaxhighlighter/styles/shCoreDefault.min.css" />
+    <link type="text/css" rel="stylesheet" href="syntaxhighlighter/styles/shThemejqPlot.min.css" />
+
+    <!--[if lt IE 9]><script language="javascript" type="text/javascript" src="../excanvas.js"></script><![endif]-->
+    <script class="include" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="meter_data.js"></script>
+
+
+    
+
+</head>
+<body>
+   
+   
+          <div class="col1" id="example-content">
+
+
+              <!-- Example scripts go here -->
+
+
+              <style type="text/css">
+
+                  .plot {
+                      margin-bottom: 30px;
+                      margin-left: auto;
+                      margin-right: auto;
+                  }
+
+                  #chart0 .jqplot-meterGauge-label {
+                      font-size: 10pt;
+                  }
+
+                  #chart1 .jqplot-meterGauge-tick {
+                      font-size: 6pt;
+                  }
+
+                  #chart2 .jqplot-meterGauge-tick {
+                      font-size: 8pt;
+                  }
+
+                  #chart3 .jqplot-meterGauge-tick, #chart0 .jqplot-meterGauge-tic {
+                      font-size: 10pt;
+                  }
+
+                  #chart4 .jqplot-meterGauge-tick, #chart4 .jqplot-meterGauge-label {
+                      font-size: 12pt;
+                  }
+              </style>
+
+
+              <div id="chart4" class="plot" style="width:500px;height:300px;"></div>
+
+
+              
+              <script type="text/javascript" class="code">
+                  $(document).ready(function () {
+                      renderMeter();
+                  });
+              </script>
+              <!-- End example scripts -->
+              <!-- Don't touch this! -->
+
+
+              <script class="include" type="text/javascript" src="../jquery.jqplot.min.js"></script>
+              <script type="text/javascript" src="syntaxhighlighter/scripts/shCore.min.js"></script>
+              <script type="text/javascript" src="syntaxhighlighter/scripts/shBrushJScript.min.js"></script>
+              <script type="text/javascript" src="syntaxhighlighter/scripts/shBrushXml.min.js"></script>
+              <!-- End Don't touch this! -->
+              <!-- Additional plugins go here -->
+
+              <script class="include" type="text/javascript" src="../plugins/jqplot.meterGaugeRenderer.min.js"></script>
+
+              <!-- End additional plugins -->
+
+          </div>
+         
+             
+
+    <script type="text/javascript" src="example.min.js"></script>
+
+</body>
+
+
+</html>

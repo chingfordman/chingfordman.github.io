@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Title here</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+  <script src="jquery.jqplot.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="jquery.jqplot.css" />
+  
+  
+  
+  
+  
+</head>
+<body>
+
+<div id="chartdiv" style="height:400px;width:300px; "></div>
+<script>
+var optionsObj = {seriesDefaults:{showLine:false}};
+$.jqplot('chartdiv',  [[[1, 2],[1,4],[1,300],[3,5.12],[5,13.1],[7,33.6],[9,85.9],[11,219.9]]],optionsObj);
+</script>
+
+
+
+</body>
+</html>
