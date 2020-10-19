@@ -1,9 +1,9 @@
 var data=[];
 data.push({marketRunner:"Exit Dates - Boris Johnson-2020",current_price:12.5,eventType:"Politics",prev_price:12.5,new_date:"16-10-2020",old_date:"15-10-2020"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:7.6,eventType:"Politics",prev_price:7.6,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2021",current_price:3.15,eventType:"Politics",prev_price:3.15,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2022",current_price:6.6,eventType:"Politics",prev_price:6.6,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:2.46,eventType:"Politics",prev_price:2.42,new_date:"16-10-2020",old_date:"15-10-2020"});
-data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:7.6,eventType:"Politics",prev_price:7.6,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Arsenal",current_price:100,eventType:"Football",prev_price:60,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Aston Villa",current_price:13.5,eventType:"Football",prev_price:13.5,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Brighton",current_price:7,eventType:"Football",prev_price:7,new_date:"16-10-2020",old_date:"15-10-2020"});
@@ -26,8 +26,8 @@ data.push({marketRunner:"Relegation 2020-21-West Ham",current_price:7.2,eventTyp
 data.push({marketRunner:"Relegation 2020-21-Wolves",current_price:38,eventType:"Football",prev_price:38,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Arsenal",current_price:2.7,eventType:"Football",prev_price:2.72,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Aston Villa",current_price:24,eventType:"Football",prev_price:24,new_date:"16-10-2020",old_date:"15-10-2020"});
-data.push({marketRunner:"Top 4 Finish 2020-21-Brighton",current_price:4,eventType:"Football",prev_price:4,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Burnley",current_price:1.03,eventType:"Football",prev_price:1.03,new_date:"16-10-2020",old_date:"15-10-2020"});
+data.push({marketRunner:"Top 4 Finish 2020-21-Brighton",current_price:4,eventType:"Football",prev_price:4,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Chelsea",current_price:1.59,eventType:"Football",prev_price:1.59,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Crystal Palace",current_price:80,eventType:"Football",prev_price:80,new_date:"16-10-2020",old_date:"15-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Everton",current_price:3.45,eventType:"Football",prev_price:3.4,new_date:"16-10-2020",old_date:"15-10-2020"});
