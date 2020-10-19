@@ -1,10 +1,10 @@
 var data=[];
-data.push({marketRunner:"Exit Dates - Boris Johnson-2020",current_price:10, eventType:"Politics",prev_price:12,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2021",current_price:3.05, eventType:"Politics",prev_price:3.1,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2022",current_price:7.2, eventType:"Politics",prev_price:6.6,new_date:"19-10-2020",old_date:"08-10-2020"});
-data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:7.6, eventType:"Politics",prev_price:8,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:2.6, eventType:"Politics",prev_price:2.34,new_date:"19-10-2020",old_date:"08-10-2020"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:7.6, eventType:"Politics",prev_price:8,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Arsenal",current_price:14.5, eventType:"Football",prev_price:16.5,new_date:"19-10-2020",old_date:"08-10-2020"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2020",current_price:10, eventType:"Politics",prev_price:12,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Aston Villa",current_price:24, eventType:"Football",prev_price:11.5,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Brighton",current_price:6.6, eventType:"Football",prev_price:6.8,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Burnley",current_price:2.28, eventType:"Football",prev_price:2.4,new_date:"19-10-2020",old_date:"08-10-2020"});
@@ -19,6 +19,8 @@ data.push({marketRunner:"Relegation 2020-21-Man City",current_price:18.5, eventT
 data.push({marketRunner:"Relegation 2020-21-Man Utd",current_price:30, eventType:"Football",prev_price:38,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Newcastle",current_price:3.6, eventType:"Football",prev_price:4.2,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Sheffield Utd",current_price:2.3, eventType:"Football",prev_price:3.2,new_date:"19-10-2020",old_date:"08-10-2020"});
+data.push({marketRunner:"Relegation 2020-21-Southampton",current_price:14, eventType:"Football",prev_price:11,new_date:"19-10-2020",old_date:"08-10-2020"});
+data.push({marketRunner:"Relegation 2020-21-Tottenham",current_price:19, eventType:"Football",prev_price:120,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-West Brom",current_price:1.75, eventType:"Football",prev_price:1.65,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-West Ham",current_price:7, eventType:"Football",prev_price:7.8,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Wolves",current_price:22, eventType:"Football",prev_price:24,new_date:"19-10-2020",old_date:"08-10-2020"});
@@ -51,7 +53,6 @@ data.push({marketRunner:"Winner 2020-21-Burnley",current_price:1000, eventType:"
 data.push({marketRunner:"Winner 2020-21-Chelsea",current_price:27, eventType:"Football",prev_price:16.5,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Winner 2020-21-Crystal Palace",current_price:1000, eventType:"Football",prev_price:1000,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Winner 2020-21-Everton",current_price:23, eventType:"Football",prev_price:21,new_date:"19-10-2020",old_date:"08-10-2020"});
-data.push({marketRunner:"Relegation 2020-21-Southampton",current_price:14, eventType:"Football",prev_price:11,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Winner 2020-21-Fulham",current_price:1000, eventType:"Football",prev_price:1000,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Winner 2020-21-Leeds United",current_price:160, eventType:"Football",prev_price:110,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Winner 2020-21-Leicester",current_price:140, eventType:"Football",prev_price:65,new_date:"19-10-2020",old_date:"08-10-2020"});
@@ -68,4 +69,3 @@ data.push({marketRunner:"Winner 2020-21-Wolves",current_price:320, eventType:"Fo
 data.push({marketRunner:"Winning Party-Any Other",current_price:1000, eventType:"Politics",prev_price:800,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Winning Party-Democrats",current_price:1.64, eventType:"Politics",prev_price:1.5,new_date:"19-10-2020",old_date:"08-10-2020"});
 data.push({marketRunner:"Winning Party-Republicans",current_price:2.52, eventType:"Politics",prev_price:2.94,new_date:"19-10-2020",old_date:"08-10-2020"});
-data.push({marketRunner:"Relegation 2020-21-Tottenham",current_price:19, eventType:"Football",prev_price:120,new_date:"19-10-2020",old_date:"08-10-2020"});
