@@ -20,8 +20,8 @@ data.push({marketRunner:"Relegation 2020-21-Man Utd",current_price:30, eventType
 data.push({marketRunner:"Relegation 2020-21-Newcastle",current_price:3.8, eventType:"Football",prev_price:4.2,new_date:"23-10-2020",old_date:"12-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Sheffield Utd",current_price:2.36, eventType:"Football",prev_price:3.1,new_date:"23-10-2020",old_date:"12-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Southampton",current_price:17.5, eventType:"Football",prev_price:12,new_date:"23-10-2020",old_date:"12-10-2020"});
-data.push({marketRunner:"Relegation 2020-21-West Brom",current_price:1.65, eventType:"Football",prev_price:1.6,new_date:"23-10-2020",old_date:"12-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Tottenham",current_price:29, eventType:"Football",prev_price:120,new_date:"23-10-2020",old_date:"12-10-2020"});
+data.push({marketRunner:"Relegation 2020-21-West Brom",current_price:1.65, eventType:"Football",prev_price:1.6,new_date:"23-10-2020",old_date:"12-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-West Ham",current_price:8, eventType:"Football",prev_price:7.2,new_date:"23-10-2020",old_date:"12-10-2020"});
 data.push({marketRunner:"Relegation 2020-21-Wolves",current_price:55, eventType:"Football",prev_price:42,new_date:"23-10-2020",old_date:"12-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Arsenal",current_price:2.7, eventType:"Football",prev_price:2.7,new_date:"23-10-2020",old_date:"12-10-2020"});
