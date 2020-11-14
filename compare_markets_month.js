@@ -28,14 +28,14 @@ data.push({marketRunner:"Top 4 Finish 2020-21-Arsenal",current_price:4.7,  event
 data.push({marketRunner:"Top 4 Finish 2020-21-Aston Villa",current_price:15,  eventType:"Football",prev_price:21,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Brighton",current_price:2,  eventType:"Football",prev_price:4,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Burnley",current_price:44,  eventType:"Football",prev_price:100,new_date:"13-11-2020",old_date:"07-10-2020"});
-data.push({marketRunner:"Top 4 Finish 2020-21-Crystal Palace",current_price:55,  eventType:"Football",prev_price:80,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Chelsea",current_price:1.55,  eventType:"Football",prev_price:1.58,new_date:"13-11-2020",old_date:"07-10-2020"});
+data.push({marketRunner:"Top 4 Finish 2020-21-Crystal Palace",current_price:55,  eventType:"Football",prev_price:80,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Everton",current_price:8.8,  eventType:"Football",prev_price:3.6,new_date:"13-11-2020",old_date:"07-10-2020"});
+data.push({marketRunner:"Top 4 Finish 2020-21-Fulham",current_price:4,  eventType:"Football",prev_price:4,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Leeds United",current_price:16,  eventType:"Football",prev_price:16.5,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Leicester",current_price:3.9,  eventType:"Football",prev_price:5.6,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Liverpool",current_price:1.13,  eventType:"Football",prev_price:1.14,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Man City",current_price:1.11,  eventType:"Football",prev_price:1.14,new_date:"13-11-2020",old_date:"07-10-2020"});
-data.push({marketRunner:"Top 4 Finish 2020-21-Fulham",current_price:4,  eventType:"Football",prev_price:4,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Man Utd",current_price:3.1,  eventType:"Football",prev_price:3.35,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Newcastle",current_price:80,  eventType:"Football",prev_price:50,new_date:"13-11-2020",old_date:"07-10-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Sheffield Utd",current_price:85,  eventType:"Football",prev_price:85,new_date:"13-11-2020",old_date:"07-10-2020"});
