@@ -1,8 +1,8 @@
 var data=[];
 data.push({marketRunner:"Exit Dates - Boris Johnson-2020",current_price:26,eventType:"Politics",prev_price:28,new_date:"11-12-2020",old_date:"10-12-2020"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2021",current_price:2.64,eventType:"Politics",prev_price:2.7,new_date:"11-12-2020",old_date:"10-12-2020"});
-data.push({marketRunner:"Exit Dates - Boris Johnson-2022",current_price:6,eventType:"Politics",prev_price:6.2,new_date:"11-12-2020",old_date:"10-12-2020"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:6.4,eventType:"Politics",prev_price:6.4,new_date:"11-12-2020",old_date:"10-12-2020"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2022",current_price:6,eventType:"Politics",prev_price:6.2,new_date:"11-12-2020",old_date:"10-12-2020"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:2.36,eventType:"Politics",prev_price:2.28,new_date:"11-12-2020",old_date:"10-12-2020"});
 data.push({marketRunner:"Relegation 2020-21-Arsenal",current_price:55,eventType:"Football",prev_price:55,new_date:"11-12-2020",old_date:"10-12-2020"});
 data.push({marketRunner:"Relegation 2020-21-Aston Villa",current_price:38,eventType:"Football",prev_price:38,new_date:"11-12-2020",old_date:"10-12-2020"});
