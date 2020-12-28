@@ -28,8 +28,8 @@ data.push({marketRunner:"Top 4 Finish 2020-21-Arsenal",current_price:19,  eventT
 data.push({marketRunner:"Top 4 Finish 2020-21-Aston Villa",current_price:8,  eventType:"Football",prev_price:25,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Burnley",current_price:48,  eventType:"Football",prev_price:46,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Brighton",current_price:4,  eventType:"Football",prev_price:180,new_date:"28-12-2020",old_date:"26-11-2020"});
-data.push({marketRunner:"Top 4 Finish 2020-21-Chelsea",current_price:1.7,  eventType:"Football",prev_price:1.49,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Crystal Palace",current_price:65,  eventType:"Football",prev_price:70,new_date:"28-12-2020",old_date:"26-11-2020"});
+data.push({marketRunner:"Top 4 Finish 2020-21-Chelsea",current_price:1.7,  eventType:"Football",prev_price:1.49,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Everton",current_price:4.8,  eventType:"Football",prev_price:11,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Fulham",current_price:4,  eventType:"Football",prev_price:2,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Top 4 Finish 2020-21-Leeds United",current_price:60,  eventType:"Football",prev_price:55,new_date:"28-12-2020",old_date:"26-11-2020"});
@@ -52,11 +52,11 @@ data.push({marketRunner:"Winner 2020-21-Brighton",current_price:1000,  eventType
 data.push({marketRunner:"Winner 2020-21-Burnley",current_price:1000,  eventType:"Football",prev_price:1000,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Winner 2020-21-Chelsea",current_price:25,  eventType:"Football",prev_price:7.4,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Winner 2020-21-Crystal Palace",current_price:1000,  eventType:"Football",prev_price:1000,new_date:"28-12-2020",old_date:"26-11-2020"});
-data.push({marketRunner:"Winner 2020-21-Fulham",current_price:1000,  eventType:"Football",prev_price:1000,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Winner 2020-21-Everton",current_price:55,  eventType:"Football",prev_price:140,new_date:"28-12-2020",old_date:"26-11-2020"});
+data.push({marketRunner:"Winner 2020-21-Fulham",current_price:1000,  eventType:"Football",prev_price:1000,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Winner 2020-21-Leeds United",current_price:1000,  eventType:"Football",prev_price:700,new_date:"28-12-2020",old_date:"26-11-2020"});
-data.push({marketRunner:"Winner 2020-21-Liverpool",current_price:2.12,  eventType:"Football",prev_price:2.52,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Winner 2020-21-Leicester",current_price:55,  eventType:"Football",prev_price:40,new_date:"28-12-2020",old_date:"26-11-2020"});
+data.push({marketRunner:"Winner 2020-21-Liverpool",current_price:2.12,  eventType:"Football",prev_price:2.52,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Winner 2020-21-Man City",current_price:3.2,  eventType:"Football",prev_price:3.75,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Winner 2020-21-Man Utd",current_price:11,  eventType:"Football",prev_price:38,new_date:"28-12-2020",old_date:"26-11-2020"});
 data.push({marketRunner:"Winner 2020-21-Newcastle",current_price:1000,  eventType:"Football",prev_price:1000,new_date:"28-12-2020",old_date:"26-11-2020"});
