@@ -1,5 +1,14 @@
 //Add your code here
-//alert(mydata.length);
 
-var firstRow=mydata[0];
+function testMe(){
+	
+	alert('hi ');
+	
+	const title = 'Simple Title';
+  const options = {
+    body: 'Simple piece of body text.\nSecond line of body text 👍'
+  };
+  reg.showNotification(title, options);
+  
+}
 
