@@ -1,8 +1,8 @@
 var data=[];
-data.push({marketRunner:"Exit Dates - Boris Johnson-2021",current_price:8.6, eventType:"Politics",prev_price:9,new_date:"28-05-2021",old_date:"20-05-2021"});
-data.push({marketRunner:"Exit Dates - Boris Johnson-2022",current_price:5.8, eventType:"Politics",prev_price:5.3,new_date:"28-05-2021",old_date:"20-05-2021"});
-data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:1.95, eventType:"Politics",prev_price:1.85,new_date:"28-05-2021",old_date:"20-05-2021"});
-data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:4.3, eventType:"Politics",prev_price:4.6,new_date:"28-05-2021",old_date:"20-05-2021"});
-data.push({marketRunner:"Most Seats-Labour",current_price:2.92, eventType:"Politics",prev_price:3,new_date:"28-05-2021",old_date:"20-05-2021"});
-data.push({marketRunner:"Most Seats-Conservative",current_price:1.48, eventType:"Politics",prev_price:1.46,new_date:"28-05-2021",old_date:"20-05-2021"});
-data.push({marketRunner:"Most Seats-Liberal Democrat",current_price:150, eventType:"Politics",prev_price:150,new_date:"28-05-2021",old_date:"20-05-2021"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2022",current_price:5.5, eventType:"Politics",prev_price:5.6,new_date:"01-06-2021",old_date:"21-05-2021"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:4.1, eventType:"Politics",prev_price:4.6,new_date:"01-06-2021",old_date:"21-05-2021"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2021",current_price:11, eventType:"Politics",prev_price:9,new_date:"01-06-2021",old_date:"21-05-2021"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:1.87, eventType:"Politics",prev_price:1.87,new_date:"01-06-2021",old_date:"21-05-2021"});
+data.push({marketRunner:"Most Seats-Conservative",current_price:1.48, eventType:"Politics",prev_price:1.41,new_date:"01-06-2021",old_date:"21-05-2021"});
+data.push({marketRunner:"Most Seats-Labour",current_price:2.92, eventType:"Politics",prev_price:3.05,new_date:"01-06-2021",old_date:"21-05-2021"});
+data.push({marketRunner:"Most Seats-Liberal Democrat",current_price:150, eventType:"Politics",prev_price:150,new_date:"01-06-2021",old_date:"21-05-2021"});
