@@ -1,8 +1,8 @@
 var data=[];
 data.push({marketRunner:"Exit Dates - Boris Johnson-2021",current_price:11,eventType:"Politics",prev_price:8.6,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2022",current_price:5.5,eventType:"Politics",prev_price:5.8,new_date:"01-06-2021",old_date:"28-05-2021"});
-data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:4.1,eventType:"Politics",prev_price:4.3,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:1.87,eventType:"Politics",prev_price:1.95,new_date:"01-06-2021",old_date:"28-05-2021"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:4.1,eventType:"Politics",prev_price:4.3,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Most Seats-Conservative",current_price:1.48,eventType:"Politics",prev_price:1.48,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Most Seats-Labour",current_price:2.92,eventType:"Politics",prev_price:2.92,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Most Seats-Liberal Democrat",current_price:150,eventType:"Politics",prev_price:150,new_date:"01-06-2021",old_date:"28-05-2021"});
@@ -27,8 +27,8 @@ data.push({marketRunner:"Next President-Gerald Darmanin",current_price:370,event
 data.push({marketRunner:"Next President-Gerard Larcher",current_price:1000,eventType:"NULL",prev_price:1000,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Next President-Jean Casteix",current_price:1000,eventType:"NULL",prev_price:1000,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Next President-Jean Lassalle",current_price:600,eventType:"NULL",prev_price:600,new_date:"01-06-2021",old_date:"28-05-2021"});
-data.push({marketRunner:"Next President-Jean-Luc Melenchon",current_price:28,eventType:"NULL",prev_price:24,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Next President-Jean Messiha",current_price:600,eventType:"NULL",prev_price:600,new_date:"01-06-2021",old_date:"28-05-2021"});
+data.push({marketRunner:"Next President-Jean-Luc Melenchon",current_price:28,eventType:"NULL",prev_price:24,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Next President-Joachim Son-Forget",current_price:1000,eventType:"NULL",prev_price:1000,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Next President-Laurent Wauquiez",current_price:1000,eventType:"NULL",prev_price:1000,new_date:"01-06-2021",old_date:"28-05-2021"});
 data.push({marketRunner:"Next President-Marine Le Pen",current_price:3.9,eventType:"NULL",prev_price:3.9,new_date:"01-06-2021",old_date:"28-05-2021"});
