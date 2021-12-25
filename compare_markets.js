@@ -6,8 +6,8 @@ data.push({marketRunner:"Exit Dates - Boris Johnson 2-October 2021 - Dec 2021",c
 data.push({marketRunner:"Exit Dates - Boris Johnson-2021",current_price:170,eventType:"Politics",prev_price:100,new_date:"25-12-2021",old_date:"23-12-2021"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2022",current_price:2.28,eventType:"Politics",prev_price:2.22,new_date:"25-12-2021",old_date:"23-12-2021"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:6.2,eventType:"Politics",prev_price:7,new_date:"25-12-2021",old_date:"23-12-2021"});
-data.push({marketRunner:"Most Seats-Conservative",current_price:1.66,eventType:"Politics",prev_price:1.67,new_date:"25-12-2021",old_date:"23-12-2021"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:2.24,eventType:"Politics",prev_price:2.36,new_date:"25-12-2021",old_date:"23-12-2021"});
+data.push({marketRunner:"Most Seats-Conservative",current_price:1.66,eventType:"Politics",prev_price:1.67,new_date:"25-12-2021",old_date:"23-12-2021"});
 data.push({marketRunner:"Most Seats-Labour",current_price:2.54,eventType:"Politics",prev_price:2.54,new_date:"25-12-2021",old_date:"23-12-2021"});
 data.push({marketRunner:"Most Seats-Liberal Democrat",current_price:65,eventType:"Politics",prev_price:60,new_date:"25-12-2021",old_date:"23-12-2021"});
 data.push({marketRunner:"Next President-Alain Juppe",current_price:1000,eventType:"Politics",prev_price:1000,new_date:"25-12-2021",old_date:"23-12-2021"});
