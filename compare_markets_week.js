@@ -1,6 +1,6 @@
 var data=[];
-data.push({marketRunner:"Exit Dates - Boris Johnson 2-April 2022 - June 2022",current_price:7.4, eventType:"Politics",prev_price:6,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Exit Dates - Boris Johnson 2-Jan 2022 - Mar 2022",current_price:13.5, eventType:"Politics",prev_price:3.35,new_date:"29-12-2021",old_date:"17-12-2021"});
+data.push({marketRunner:"Exit Dates - Boris Johnson 2-April 2022 - June 2022",current_price:7.4, eventType:"Politics",prev_price:6,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Exit Dates - Boris Johnson 2-July 2022 or later",current_price:1.25, eventType:"Politics",prev_price:1.59,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Exit Dates - Boris Johnson 2-October 2021 - Dec 2021",current_price:1000, eventType:"Politics",prev_price:27,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2021",current_price:230, eventType:"Politics",prev_price:23,new_date:"29-12-2021",old_date:"17-12-2021"});
@@ -13,8 +13,8 @@ data.push({marketRunner:"Most Seats-Liberal Democrat",current_price:60, eventTyp
 data.push({marketRunner:"Next President-Alain Juppe",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Anne Hidalgo",current_price:470, eventType:"Politics",prev_price:470,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Arnaud Montebourg",current_price:300, eventType:"Politics",prev_price:310,new_date:"29-12-2021",old_date:"17-12-2021"});
-data.push({marketRunner:"Next President-Benoit Hamon",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Bernard Cazeneuve",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
+data.push({marketRunner:"Next President-Benoit Hamon",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Bruno Le Maire",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Bruno Retailleau",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-David Lisnard",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
@@ -25,12 +25,12 @@ data.push({marketRunner:"Next President-Eric Piolle",current_price:1000, eventTy
 data.push({marketRunner:"Next President-Eric Zemmour",current_price:15, eventType:"Politics",prev_price:13.5,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Florian Philippot",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Francois Asselineau",current_price:150, eventType:"Politics",prev_price:230,new_date:"29-12-2021",old_date:"17-12-2021"});
-data.push({marketRunner:"Next President-Francois Baroin",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Francois Fillon",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-François Hollande",current_price:560, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-François Ruffin",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
-data.push({marketRunner:"Next President-Gerald Darmanin",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Gerard Larcher",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
+data.push({marketRunner:"Next President-Gerald Darmanin",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
+data.push({marketRunner:"Next President-Francois Baroin",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Jean Casteix",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Jean Lassalle",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
 data.push({marketRunner:"Next President-Jean Messiha",current_price:1000, eventType:"Politics",prev_price:1000,new_date:"29-12-2021",old_date:"17-12-2021"});
