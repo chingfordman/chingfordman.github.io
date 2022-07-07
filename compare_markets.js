@@ -1,7 +1,10 @@
 var data=[];
-data.push({marketRunner:"Exit Dates - Boris Johnson-2022",current_price:1.17,eventType:"Politics",prev_price:2.52,new_date:"06-07-2022",old_date:"05-07-2022"});
-data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:11,eventType:"Politics",prev_price:3.6,new_date:"06-07-2022",old_date:"05-07-2022"});
-data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:13,eventType:"Politics",prev_price:2.92,new_date:"06-07-2022",old_date:"05-07-2022"});
-data.push({marketRunner:"Most Seats-Conservative",current_price:1.86,eventType:"Politics",prev_price:1.91,new_date:"06-07-2022",old_date:"05-07-2022"});
-data.push({marketRunner:"Most Seats-Labour",current_price:2.12,eventType:"Politics",prev_price:2.1,new_date:"06-07-2022",old_date:"05-07-2022"});
-data.push({marketRunner:"Most Seats-Liberal Democrat",current_price:44,eventType:"Politics",prev_price:95,new_date:"06-07-2022",old_date:"05-07-2022"});
+data.push({marketRunner:"Boris Johnson Conservative Leader Next Election?-No",current_price:1.03,eventType:"NULL",prev_price:1.06,new_date:"07-07-2022",old_date:"06-07-2022"});
+data.push({marketRunner:"Boris Johnson Conservative Leader Next Election?-Yes",current_price:26,eventType:"NULL",prev_price:6,new_date:"07-07-2022",old_date:"06-07-2022"});
+data.push({marketRunner:"Boris Johnson PM for 2022 Conservative Conference?-No",current_price:1.01,eventType:"NULL",prev_price:1.1,new_date:"07-07-2022",old_date:"06-07-2022"});
+data.push({marketRunner:"Boris Johnson PM for 2022 Conservative Conference?-Yes",current_price:40,eventType:"NULL",prev_price:3.25,new_date:"07-07-2022",old_date:"06-07-2022"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:110,eventType:"Politics",prev_price:9.8,new_date:"07-07-2022",old_date:"06-07-2022"});
+data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:120,eventType:"Politics",prev_price:13,new_date:"07-07-2022",old_date:"06-07-2022"});
+data.push({marketRunner:"Most Seats-Conservative",current_price:1.83,eventType:"Politics",prev_price:1.81,new_date:"07-07-2022",old_date:"06-07-2022"});
+data.push({marketRunner:"Most Seats-Labour",current_price:2.16,eventType:"Politics",prev_price:2.12,new_date:"07-07-2022",old_date:"06-07-2022"});
+data.push({marketRunner:"Most Seats-Liberal Democrat",current_price:55,eventType:"Politics",prev_price:44,new_date:"07-07-2022",old_date:"06-07-2022"});
