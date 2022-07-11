@@ -6,5 +6,5 @@ data.push({marketRunner:"Boris Johnson PM for 2022 Conservative Conference?-Yes"
 data.push({marketRunner:"Exit Dates - Boris Johnson-2023",current_price:120,eventType:"Politics",prev_price:210,new_date:"11-07-2022",old_date:"08-07-2022"});
 data.push({marketRunner:"Exit Dates - Boris Johnson-2024 or later",current_price:120,eventType:"Politics",prev_price:320,new_date:"11-07-2022",old_date:"08-07-2022"});
 data.push({marketRunner:"Most Seats-Conservative",current_price:1.83,eventType:"Politics",prev_price:1.82,new_date:"11-07-2022",old_date:"08-07-2022"});
-data.push({marketRunner:"Most Seats-Labour",current_price:2.18,eventType:"Politics",prev_price:2.22,new_date:"11-07-2022",old_date:"08-07-2022"});
 data.push({marketRunner:"Most Seats-Liberal Democrat",current_price:70,eventType:"Politics",prev_price:55,new_date:"11-07-2022",old_date:"08-07-2022"});
+data.push({marketRunner:"Most Seats-Labour",current_price:2.18,eventType:"Politics",prev_price:2.22,new_date:"11-07-2022",old_date:"08-07-2022"});
